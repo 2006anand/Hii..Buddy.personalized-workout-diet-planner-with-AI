@@ -2,7 +2,7 @@
 ### Personalized Workout & Diet Planner with AI
 
 🔗 **Live Website:** https://hi-buddy-anand-jha.vercel.app/
-
+    
 ---
 
 ## 📌 Overview
@@ -121,5 +121,5 @@ Contributions are welcome!
 
 
 
-This project is licensed under the **MIT License**.
+This project is for AICTE Internship Edunet Foundation
 
