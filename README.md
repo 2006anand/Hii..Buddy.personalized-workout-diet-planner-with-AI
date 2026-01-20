@@ -96,21 +96,10 @@ Generic fitness plans fail to meet these real-world constraints.
 
 ---
 
-## 📷 Screenshots
-
-> UI highlights include:
-- Bio Hacking Input Panel
-- Goal & Equipment Selection
-- Nutrition Preference Engine
-- One-click Plan Generation
-
-*(Screenshots available in the repository or live demo)*
-
----
-
 ## 🧑‍💻 Author
 
-**Anand**  
+**Anand Kumar Jha**  
+an91an99jha@gmail.com
 Architecture & Development  
 > “Building practical AI products for real-world student problems.”
 
