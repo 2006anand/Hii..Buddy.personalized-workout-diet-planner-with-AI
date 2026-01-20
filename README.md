@@ -1,5 +1,8 @@
 # 🏋️‍♂️ HI Buddy  
-### Personalized Workout & Diet Planner with AI
+### AICTE Internship Edunet Foundation Project- Personalized Workout & Diet Planner with AI
+
+Name - Anand Kumar Jha
+an91an99jha@gmail.com
 
 🔗 **Live Website:** https://hi-buddy-anand-jha.vercel.app/
     
